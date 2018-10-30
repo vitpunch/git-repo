@@ -11,6 +11,7 @@ namespace git_repo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
+            Console.WriteLine("What");
         }
     }
 }
